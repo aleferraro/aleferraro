@@ -6,7 +6,7 @@
 
 #### 🚀 Tech Stack
 <p>
-  <img src="https://img.shields.io/badge/-PHP-000000?style=flat&logo=php/>
+  <img src="https://img.shields.io/badge/-PHP-000000?style=flat&logo=php"/>
   <img src="https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=white"/>
