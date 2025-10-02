@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Vue-000000?style=flat&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=white"/>
