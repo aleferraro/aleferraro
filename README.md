@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js"/>
   <img src="https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jquery"/>
   <img src="https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5"/>
-  <img src="https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3"/>
+  <img src="https://img.shields.io/badge/-CSS-000000?style=flat&logo=css"/>
   <img src="https://img.shields.io/badge/-SCSS-000000?style=flat&logo=sass"/>
 <br>
   <img src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql"/>
