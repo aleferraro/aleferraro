@@ -5,22 +5,22 @@
 ### 💻 Full Stack Web Developer  
 
 #### 🚀 Tech Stack
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="15" height="15"/> PHP | 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel.svg" alt="laravel" width="15" height="15"/> Laravel | 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="15" height="15"/> JavaScript | 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="15" height="15"/> TypeScript | 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="15" height="15"/> React | 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vue" width="15" height="15"/> Vue | 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="15" height="15"/> Next.js | 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="15" height="15"/> PostgreSQL | 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="15" height="15"/> MongoDB | 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="15" height="15"/> MySQL | 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="15" height="15"/> ElasticSearch | 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="15" height="15"/> TailwindCSS | 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="15" height="15"/> Bootstrap | 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="15" height="15"/> Docker | 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="15" height="15"/> Git
+<p>
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
 </p>
 
 ---
