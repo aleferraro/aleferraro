@@ -13,11 +13,11 @@
   <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react"/>
   <img src="https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=vue.js"/>
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js"/>
-  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5"/>
-  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3"/>
-  <img src="https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass"/>
-  <img src="https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass"/>
-  <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery"/>
+  <img src="https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jquery"/>
+  <img src="https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5"/>
+  <img src="https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3"/>
+  <img src="https://img.shields.io/badge/-SCSS-000000?style=flat&logo=sass"/>
+  <img src="https://img.shields.io/badge/-SASS-000000?style=flat&logo=sass"/>
 <br>
   <img src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql"/>
   <img src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb"/>
