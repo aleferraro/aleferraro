@@ -2,8 +2,6 @@
 
 
 ### 💻 Full Stack Web Developer  
-
-#### 🚀 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/-PHP-000000?style=flat&logo=php"/>
   <img src="https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel"/>
@@ -26,6 +24,6 @@
   <img src="https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker"/>
   <img src="https://img.shields.io/badge/-Git-000000?style=flat&logo=git"/>
 </p>
-
+<br>
 
 **[LinkedIn](https://www.linkedin.com/in/alessandro-ferraro/)**
