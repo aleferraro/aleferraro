@@ -1,4 +1,4 @@
-# 👋 Alessandro Ferraro
+# Alessandro Ferraro
 
 ---
 
