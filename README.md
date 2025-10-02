@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5"/>
   <img src="https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3"/>
   <img src="https://img.shields.io/badge/-SCSS-000000?style=flat&logo=sass"/>
-  <img src="https://img.shields.io/badge/-SASS-000000?style=flat&logo=sass"/>
 <br>
   <img src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql"/>
   <img src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb"/>
