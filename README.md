@@ -1,6 +1,5 @@
 # Alessandro Ferraro
 
----
 
 ### 💻 Full Stack Web Developer  
 
@@ -28,6 +27,5 @@
   <img src="https://img.shields.io/badge/-Git-000000?style=flat&logo=git"/>
 </p>
 
----
 
 **[LinkedIn](https://www.linkedin.com/in/alessandro-ferraro/)**
