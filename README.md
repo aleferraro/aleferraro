@@ -13,8 +13,7 @@
   <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react"/>
   <img src="https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=vue.js"/>
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js"/>
-</p>
-<p>
+<br>
   <img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql"/>
   <img src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb"/>
   <img src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql"/>
